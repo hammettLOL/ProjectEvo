@@ -1,4 +1,4 @@
-package com.labs.maverick.projectevo;
+package com.labs.maverick.projectevo.activities;
 
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
@@ -6,6 +6,8 @@ import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.WindowManager;
+
+import com.labs.maverick.projectevo.R;
 
 public class SplashScreenActivity extends AppCompatActivity {
     private final int DURACION_SPLASH = 2000;
