@@ -26,7 +26,7 @@ public class LoginActivity extends AppCompatActivity {
     EditText passwordEditText;
     Button signInButton;
     Usuario usuario;
-    String baseURL = "http://192.168.56.1:50743/";
+    String baseURL = "hhttp://msaldarriaga-001-site7.htempurl.com/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
